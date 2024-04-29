@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+/cypress
+/.vscode
+/.idea
+/.pnp
+.pnp.js
+pnpm-lock.yaml
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+#package-lock.json
